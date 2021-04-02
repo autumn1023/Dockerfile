@@ -1,2 +1,0 @@
-FROM gcr.io/kfserving/storage-initializer:v0.4.1
-RUN apt-get update && apt-get install -y net-tools && apt-get clean
