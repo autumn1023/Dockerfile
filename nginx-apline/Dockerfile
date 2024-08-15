@@ -122,5 +122,3 @@ EXPOSE 80
 STOPSIGNAL SIGQUIT
 
 CMD ["nginx", "-g", "daemon off;"]
-
-You have mail in /var/spool/mail/root
